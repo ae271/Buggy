@@ -14,3 +14,5 @@ A Java-based desktop user interface communicates with the Arduino to set paramet
 - `ui/` – Java / Processing desktop UI
 - `docs/` – Project report and diagrams
 
+## Project Report
+📄 [Project Report (PDF)](docs/Project%20Report.pdf)
