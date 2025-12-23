@@ -1,7 +1,6 @@
 # Autonomous Line-Following Buggy – PID Speed Control
 
 ## Overview
-![Autonomous Buggy](docs/buggy_photo.jpg)
 This project is a team-based university engineering project involving the design and implementation of an autonomous buggy using an Arduino microcontroller.
 
 The system implements closed-loop PID speed control, allowing the buggy to track a user-defined target velocity (e.g. 15 cm/s).
