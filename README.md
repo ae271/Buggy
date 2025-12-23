@@ -1,5 +1,8 @@
 # Autonomous Line-Following Buggy – PID Speed Control
 
+## Demo Video
+[![Autonomous Buggy Demo](https://img.youtube.com/vi/HlLFTglX5Pk/0.jpg)](https://www.youtube.com/watch?v=HlLFTglX5Pk)
+
 ## Overview
 This project is a team-based university engineering project involving the design and implementation of an autonomous buggy using an Arduino microcontroller.
 
